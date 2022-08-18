@@ -1,0 +1,13 @@
+Türkçe
+Çalıştırmak: 'go run main.go' komutunu girin veya direkt olarak 'main.exe'yi çalıştırın.
+Kulllanıcı adı: CyberWorm | Parola: blog-cyberworm
+Çıkmak: '-1' veya 'CTRL + C'
+
+Blog sitemi ziyaret edebilirsiniz: https://blog-cyberworm.com
+
+English
+Run: Enter 'go run main.go' or run the 'main.exe'
+Username: CyberWorm | Password: blog-cyberworm
+Quit: '-1' or 'CTRL + C'
+
+You can visit my blo site: https://blog-cyberworm.com
